@@ -1,0 +1,40 @@
+INFO 2024-11-13 23:24:19,279 grades Новая оценка: студент student@kbtu.kz, курс Django, оценка A, преподаватель instructor@kbtu.kz
+INFO 2024-11-14 02:03:13,587 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:03:13,587 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:05:25,912 grades Новая оценка: студент student3@kbtu.kz, курс Django, оценка B, преподаватель instructor@kbtu.kz
+INFO 2024-11-14 02:09:49,058 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:09:49,059 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:15:07,262 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:15:07,262 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:17:51,769 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:17:51,769 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:19:12,991 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:19:12,991 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:19:57,555 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:19:57,555 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:26:55,941 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 02:26:55,941 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 02:35:17,702 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 02:36:06,980 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 02:36:08,135 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 02:54:33,320 grades Новая оценка: студент instructor@kbtu.kz, курс Django, оценка A, преподаватель instructor@kbtu.kz
+INFO 2024-11-14 03:35:53,482 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 03:35:54,635 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 03:35:58,457 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 03:35:58,457 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 03:37:37,345 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 03:37:38,489 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 03:37:42,355 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 03:37:42,355 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 03:39:32,218 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 03:39:33,369 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 03:39:37,235 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 03:39:37,235 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 03:42:25,252 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 03:42:26,396 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 03:42:30,204 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 03:42:30,204 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course
+INFO 2024-11-14 03:50:39,333 grades Новая оценка: студент student@example.com, курс Math, оценка A, преподаватель teacher@example.com
+INFO 2024-11-14 03:50:40,470 grades Новая оценка: студент student@example.com, курс Science, оценка B, преподаватель teacher@example.com
+INFO 2024-11-14 03:50:44,258 grades Новая оценка: студент teststudent2@kbtu.kz, курс Test Course, оценка A, преподаватель testteacher2@kbtu.kz
+INFO 2024-11-14 03:50:44,258 grades Преподаватель testteacher2@kbtu.kz выставил оценку A студенту teststudent2@kbtu.kz по курсу Test Course

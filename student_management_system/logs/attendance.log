@@ -1,0 +1,10 @@
+INFO 2024-11-13 23:24:54,351 attendance Посещаемость отмечена: студент student@kbtu.kz, курс Django, дата 2024-11-13, статус present
+INFO 2024-11-14 02:34:27,991 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 02:35:16,446 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 02:36:06,959 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 02:54:45,079 attendance Посещаемость отмечена: студент student2@kbtu.kz, курс Django, дата 2024-11-13, статус present
+INFO 2024-11-14 03:35:53,459 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 03:37:37,325 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 03:39:32,195 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 03:42:25,229 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present
+INFO 2024-11-14 03:50:39,312 attendance Посещаемость отмечена: студент student@example.com, курс Math, дата 2024-11-13, статус Present

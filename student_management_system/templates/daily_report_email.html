@@ -1,0 +1,17 @@
+<h2>Ежедневный отчет за {{ date|date:"d.m.Y" }}</h2>
+
+{% for student in report_data %}
+  <h3>Студент: {{ student.student_name }} ({{ student.student_email }})</h3>
+  <p>Статус посещаемости: {{ student.attendance_status }}</p>
+  <h4>Оценки:</h4>
+  {% if student.grades %}
+    <ul>
+      {% for grade in student.grades %}
+        <li>{{ grade.course.name }}: {{ grade.grade }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>Оценки отсутствуют.</p>
+  {% endif %}
+  <hr>
+{% endfor %}
